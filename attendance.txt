@@ -1,5 +1,0 @@
-
-Attendance Feature
-Present: 18
-Absent: 2
-Total Students: 20
